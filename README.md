@@ -1,1 +1,1 @@
-# Basic-suduko-using-python
+# Basic-sudoku-using-python
